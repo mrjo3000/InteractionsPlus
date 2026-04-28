@@ -1,0 +1,5 @@
+name: Interactions
+main: com.mrjo3000.interactions.InteractionsPlugin
+version: 1.0.0
+api-version: "1.16"
+description: "Simulates modern block GUIs for clients below Minecraft 1.16 using chest inventories, glass panes, particles, and chat messages."
