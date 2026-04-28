@@ -1,7 +1,7 @@
-# Interactions-
+# Interactions+
 
 ## Overview
-`Interactions` is a Minecraft plugin for Spigot/Paper servers that provides a safe and friendly simulation of newer block interfaces for players using client versions below 1.16.
+`Interactions+` is a Minecraft plugin for Spigot/Paper servers that provides a safe and friendly simulation of newer block interfaces for players using client versions below 1.16.
 
 Older clients cannot open some of the modern block screens, so this plugin uses chest inventories, glass panes, particles, and chat messages to give players a helpful alternative.
 
